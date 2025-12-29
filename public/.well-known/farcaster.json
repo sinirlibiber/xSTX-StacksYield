@@ -1,0 +1,21 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjMzNTMzNCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDQ0ODRmQkM0Y2I5NzI0NjYyMDc1YjNhNzJkMjM2ODc3RDc2ZTc1YjIifQ",
+    "payload": "eyJkb21haW4iOiJlbXB0eS1zZWVkLTQ0NS5hcHAub2hhcmEuYWkifQ",
+    "signature": "8A9V5PQ65hC8cKMmz/RkaPBB/SjiYJU9X5IuBDHjYFJgRSKEC/0PBxbkOav88YwE/Wn5GM5JTb25Zd7npspqmRw="
+  }
+}
+  },
+  "frame": {
+    "version": "next",
+    "name": "StacksYield",
+    "description": "Earn yield on your Stacks tokens through liquidity pools",
+    "iconUrl": "https://stacksyield.app/icon.png",
+    "homeUrl": "https://stacksyield.app",
+    "imageUrl": "https://stacksyield.app/og-image.png",
+    "buttonTitle": "Launch StacksYield",
+    "splashImageUrl": "https://stacksyield.app/splash.png",
+    "splashBackgroundColor": "#f97316",
+    "webhookUrl": "https://stacksyield.app/api/webhook"
+  }
+}
