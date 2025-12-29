@@ -106,8 +106,7 @@ Single-sided liquidity deposits with visual route tracking. See exactly how your
 ## 🎬 Demo
 
 ### Live App
-- **Farcaster**: Open in Warpcast (coming soon)
-- **Web Preview**: [https://stacksyield.app](https://stacksyield.app) (testnet)
+- **Web Preview**: (https://empty-seed-445.app.ohara.ai]
 
 ### Screenshots
 
